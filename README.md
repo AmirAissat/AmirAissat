@@ -4,7 +4,7 @@ I'm a Computer Science student passionate about full-stack development, AI and c
 
 ## Projects
 
-### 1. [Virtual AI Keyboard]
+### 1. Virtual AI Keyboard
 An innovative Python application that allows users to type on a virtual keyboard using just their hand gestures via webcam, powered by OpenCV and the CVzone library.
 
 **Technologies Used:** Python, OpenCV, CVzone, PyCharm
@@ -13,7 +13,8 @@ An innovative Python application that allows users to type on a virtual keyboard
   - Interactive, translucent letter keys with visual feedback
   - Custom key functions including space and backspace
   - Optimized visual design with a dark-grey display box
-### 4. AI-Powered Applicant Tracking System (ATS) 
+ 
+### 2. AI-Powered Applicant Tracking System (ATS) 
 A full-stack web application that automates the resume screening process. Recruiters can create jobs, upload resumes, and receive instant AI-powered analysis on how well a candidate fits the role.
 
 - **Technologies Used:** React, React Router, JavaScript, Puter.js, AI API
@@ -21,6 +22,16 @@ A full-stack web application that automates the resume screening process. Recrui
   - PDF resume upload and text extraction
   - AI-driven analysis and matching score generation
   - User authentication and job management dashboard
+
+### 3. Minecraft Mod
+Developed custom content for Minecraft, adding new items and assets to enhance the gameplay experience.
+
+- **Technologies Used:** Java, Minecraft Forge API, JSON, Blockbench, Git
+- **Features:**
+  - Created custom swords, armor, and clothing with unique properties
+  - Designed and integrated 3D models using Blockbench
+  - Managed game assets through JSON files for textures and models
+  - Applied object-oriented programming for item behaviors and effects
 
 
 ## Skills
