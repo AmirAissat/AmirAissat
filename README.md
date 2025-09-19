@@ -49,7 +49,7 @@ Developed custom content for Minecraft, adding new items and assets to enhance t
 - **LinkedIn:** https://www.linkedin.com/in/amir-aissat-997b83327/
 
 ---
- **Thanks for visiting my profile!**
+**Thanks for visiting my profile!**
 
 <!--
 **AmirAissat/AmirAissat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
