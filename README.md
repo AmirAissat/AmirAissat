@@ -13,7 +13,7 @@ An innovative Python application that allows users to type on a virtual keyboard
   - Interactive, translucent letter keys with visual feedback
   - Custom key functions including space and backspace
   - Optimized visual design with a dark-grey display box
-### 4. AI-Powered Applicant Tracking System (ATS) 🤖📄
+### 4. AI-Powered Applicant Tracking System (ATS) 
 A full-stack web application that automates the resume screening process. Recruiters can create jobs, upload resumes, and receive instant AI-powered analysis on how well a candidate fits the role.
 
 - **Technologies Used:** React, React Router, JavaScript, Puter.js, AI API
